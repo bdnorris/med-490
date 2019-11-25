@@ -1,10 +1,20 @@
 {
+  "name": "med-390",
+  "version": "1.0.0",
+  "repository": "https://github.com/bdnorris/med-490",
+  "description": "Course site for MED-490, based on DES-340",
+  "author": "Brian Norris",
+  "license": "MPL-2.0",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
   },
+  "devDependencies": {
+    "vuepress": "^1.0.0"
+  },
   "dependencies": {
-    "markdown-it-imsize": "^2.0.1",
-    "vuepress": "^1.2.0"
+    "eslint": "^4.19.1",
+    "npm": "^5.8.0",
+    "markdown-it-imsize": "^2.0.1"
   }
 }
