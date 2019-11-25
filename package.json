@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
   "dependencies": {
     "markdown-it-imsize": "^2.0.1"
   }

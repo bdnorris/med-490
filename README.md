@@ -52,3 +52,8 @@ Run `vuepress dev` to run locally,
 Content by [Brian Norris](https://briannorris.io)
 
 Projects 2 and 3 originated by [Jesse Nivens](https://www.linkedin.com/in/jessenivens)
+
+## License
+
+[Mozilla Public License
+Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
