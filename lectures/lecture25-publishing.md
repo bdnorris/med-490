@@ -134,3 +134,5 @@ If you're using your domain as a forward or hooking it up to something like Squa
 A CNAME is essentially an alias. For Netlify for instance, you could set up a CNAME that would basically function and mask Netlify's own domain name. 
 
 I can't really vouch for [this companies service](https://support.dnsimple.com/categories/dns/), but their DNS documentation is great. 
+
+You might also check out this article: [DNS Crash Course for Developers](https://dev.to/chrisachard/dns-record-crash-course-for-web-developers-35hn)
